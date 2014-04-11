@@ -1,32 +1,19 @@
 [Eagle]
-Version="05 06 00"
-Platform="Linux"
-Serial="6C2E8B7543-LSR-WL-1CP"
+Version="06 04 00"
+Platform="Mac OS X"
+Serial="6B0575A347-LS-WLM-5CP"
 Globals="Globals"
 Desktop="Desktop"
 
 [Globals]
 AutoSaveProject=1
-UsedLibrary="/home/yann/eagle-lib/SparkFun.lbr"
-UsedLibrary="/home/yann/eagle-lib/StackFoundry.lbr"
-UsedLibrary="/home/yann/eagle-lib/rc-master-smd.lbr"
-UsedLibrary="/home/yann/hw/trunk/EagleSysFiles/lbr/con-jst.lbr"
-UsedLibrary="/home/yann/hw/trunk/EagleSysFiles/lbr/vishay-tvs.lbr"
-UsedLibrary="/home/yann/hw/trunk/EagleSysFiles/lbr/switch.lbr"
-UsedLibrary="/home/yann/hw/trunk/EagleSysFiles/lbr/newhaven_lcd.lbr"
-UsedLibrary="/home/yann/hw/trunk/EagleSysFiles/lbr/atmel.lbr"
-UsedLibrary="/home/yann/hw/trunk/EagleSysFiles/lbr/SynapSense_Atmel_DataFlash.lbr"
-UsedLibrary="/home/yann/hw/trunk/EagleSysFiles/lbr/Switch DPDT.lbr"
-UsedLibrary="/home/yann/bin/eagle-5.6.0/lbr/74xx-us.lbr"
-UsedLibrary="/home/yann/bin/eagle-5.6.0/lbr/diode.lbr"
-UsedLibrary="/home/yann/bin/eagle-5.6.0/lbr/rcl.lbr"
 
 [Win_1]
 Type="Control Panel"
-Loc="1892 210 3128 938"
+Loc="408 210 1644 938"
 State=2
 Number=0
 
 [Desktop]
-Screen="3280 1200"
+Screen="1680 1050"
 Window="Win_1"
