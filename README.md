@@ -1,6 +1,6 @@
 # Calcumaker - Desktop LED calculator
 
-![board silk](https://raw.githubusercontent.com/theatrus/calcumaker_mk1/board_image.png)
+![board silk](https://raw.githubusercontent.com/theatrus/calcumaker_mk1/master/board_image.png)
 
 A desktop calculator design chock full of seven segment LEDs and
 powered by an Atmel AVR xMega.
